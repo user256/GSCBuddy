@@ -30,11 +30,6 @@ To use the Bulk Property Creation API feature, you must configure an OAuth Clien
 3. Create OAuth 2.0 credentials for a **Chrome App/Extension** using the extension's ID.
 4. Update the `"oauth2"` section in `manifest.json` with your generated `client_id`.
 
-## Local Development & Roadmap
-
-This project uses a local ticket-driven workflow to manage sprints and development. 
-*Note: The `tickets/` directory and `process_tickets.py` script are intentionally ignored by Git to keep the repository clean of internal roadmap files.*
-
 ---
 
 ## Conventions & Contribution
