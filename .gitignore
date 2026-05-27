@@ -101,7 +101,7 @@ dmypy.json
 .cursorrules
 
 # Private files
-Private.md
+private.md
 PRIVATE*
 /private
 
